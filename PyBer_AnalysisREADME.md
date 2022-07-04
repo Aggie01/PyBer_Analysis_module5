@@ -11,9 +11,9 @@
 
 # Results:
 
-   **Urban** outperformed on some key findings: **"Total Riders**," "**Total Driver**" and "**Total Fares**." 
+   **Urban** setting outperformed on some key findings: **"Total Riders**," "**Total Driver**" and "**Total Fares**." 
   - The analysis clearly demonstrates that the urban type has over 30 times more drivers than the rural type.
-  - Total Fares in urban area came close to $40,000 as opposed to only $4,327.93 for rural and it was twice as much as in suburban area.
+  - Total Fares in urban area came close to $40,000 as opposed to only $4,327.93 for rural and it was twice as much as in suburban area, $19,356.33.
     
    **Rural** area scored the highest on **"Average Fare per Driver**" and "**Average Fare by Ride**" as compared to other two city types.
   - The Fare per Driver is at $55.49, whereas in urban type it is only $16.57.
@@ -23,7 +23,7 @@
 ![](PyBer%20Summary.png)
 
   
-  ### Seasonal effects and trends that are identified:
+  ### Seasonal effects and trends:
   - Highest total fare by city type is observed by mid February until early March across all city types.
   - In urban setting, high performing weekly trend continued thru March.  May shows more stable.
   
