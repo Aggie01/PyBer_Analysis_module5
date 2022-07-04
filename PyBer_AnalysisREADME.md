@@ -7,7 +7,7 @@
 ### Show the relationship between the type of city (urban, rural, suburban) and the number of drivers and riders.
 
 # Methodology:
-### Exploratory analysis of the PyBer's ride-sharing data will be perfomed using python, jupyter notebook, pandas, numpy and matplotlib.  
+### Exploratory analysis of PyBer's ride-sharing data will be perfomed using python, jupyter notebook, pandas, numpy and matplotlib.  
 
 # Results:
 
@@ -19,20 +19,21 @@
   - The Fare per Driver is at $55.49, whereas in urban type it is only $16.57.
   - The Fare per Ride is almost $10 higher in rural area than urban ($34.62 vs $24.53)
  
- The summary table below illustrates the findings:
+ The summary table below illustrates more findings:
 ![](PyBer%20Summary.png)
 
+  
   ### Seasonal effects and trends that are identified:
   - afdsdfsa
   - asdfsdfsadf
 
   ![](Total%20Fare%20by%20City%20Type.png)
   
-  Below, a detailed table shows the weekly sum of the fares 
+  Below, a detailed table shows the weekly sum of fares 
+  
   ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
   
   
- 
 # Summary and Recommendations:
 In order to improve PyBer's business performance the following is recommended: 
 - Allocate more drivers into rural areas.
