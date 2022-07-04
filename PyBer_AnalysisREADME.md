@@ -22,6 +22,11 @@
  The summary table below illustrates the findings:
 ![](PyBer%20Summary.png)
 
+  ### Seasonal effects and trends that are identified:
+  - afdsdfsa
+  - asdfsdfsadf
+  
+  ![](PyBer%20Summary.png)
  
 # Summary and Recommendations:
 In order to improve PyBer's business performance the following is recommended: 
