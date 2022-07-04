@@ -26,8 +26,9 @@
   - afdsdfsa
   - asdfsdfsadf
 
-  ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
+  ![](Total%20Fare%20by%20City%20Type.png)
   
+  Below, a detailed table shows the weekly sum of the fares 
   ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
   
   
