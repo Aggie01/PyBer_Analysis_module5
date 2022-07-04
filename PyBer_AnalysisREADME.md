@@ -11,14 +11,22 @@
 
 # Results:
 
-  **Urban** outperformed on some key findings: **"Total Riders**," "**Total Driver**" and "**Total Fares**." 
+   **Urban** outperformed on some key findings: **"Total Riders**," "**Total Driver**" and "**Total Fares**." 
   - The analysis clearly demonstrates that the urban type has over 30 times more drivers than the rural type.
   - Total Fares in urban area came close to $40,000 as opposed to only $4,327.93 for rural.
     
-  **Rural** area scored the highest on **"Average Fare per Driver**" and "**Average Fare by Ride**" as compared to other two city types.
+   **Rural** area scored the highest on **"Average Fare per Driver**" and "**Average Fare by Ride**" as compared to other two city types.
   - The Fare per Driver is at $55.49, whereas in urban type it is only $16.57.
   - The Fare per Ride is almost $10 higher in rural area than urban ($34.62 vs $24.53)
  
+ The summary table below illustrates the findings:
 ![](PyBer%20Summary.png)
 
-There is an influx of urban area drivers as compared to other city types.
+ 
+# Summary and Recommendations:
+In order to improve PyBer's business performance the following is recommended: 
+- Allocate more drivers into rural areas.
+- Control influx of drivers in urban city type.
+- Better promote ride-sharing services in rural areas.
+- More frequently perform "market" analysis to better understand ride-sharing trends.
+ 
