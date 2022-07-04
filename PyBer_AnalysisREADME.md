@@ -29,7 +29,7 @@
 
   ![](Total%20Fare%20by%20City%20Type.png)
   
-  Below, a detailed table shows the weekly sum of fares 
+  Below, a detailed table shows the weekly sum of fares for all three city types: 
   
   ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
   
