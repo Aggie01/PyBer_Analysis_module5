@@ -17,5 +17,5 @@
 - asdfsdfsa
 - sdfasdf
 - sfsadf
-- 
+- ![](VBA_Challenge_AllStocks2017.png)
 
