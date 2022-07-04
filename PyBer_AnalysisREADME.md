@@ -17,8 +17,8 @@
     
   **Rural** area scored the highest on **"Average Fare per Driver**" and "**Average Fare by Ride**" as compared to other two city types.
   - The Fare per Driver is at $55.49, whereas in urban type it is only $16.57.
-  - sfsadf
-- 
+  - The Fare per Ride is almost $10 higher in rural area than urban ($34.62 vs $24.53)
+ 
 ![](PyBer%20Summary.png)
 
 There is an influx of urban area drivers as compared to other city types.
