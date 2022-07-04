@@ -25,8 +25,12 @@
   ### Seasonal effects and trends that are identified:
   - afdsdfsa
   - asdfsdfsadf
+
+  ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
   
-  ![](PyBer%20Summary.png)
+  ![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
+  
+  
  
 # Summary and Recommendations:
 In order to improve PyBer's business performance the following is recommended: 
